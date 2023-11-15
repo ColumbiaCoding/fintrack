@@ -5,3 +5,8 @@ h1 {
 .button-container {
     text-align: center;
 }
+
+.container {
+    background-color: #89B9AD;
+    background-image: -moz-element();
+}
