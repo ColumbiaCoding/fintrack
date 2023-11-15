@@ -5,6 +5,7 @@ const cors = require('cors');
 const routes = require('./routes');
 const session = require('express-session');
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
+const path = require('path');
 const sess = {
   secret: 'Super secret secret',
   cookie: {
