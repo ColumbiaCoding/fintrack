@@ -1,0 +1,22 @@
+{
+  "name": "fintrack",
+  "version": "1.0.0",
+  "description": "FinTrack is the ultimate personal finance tracker app designed to empower you with the tools and insights needed to take control of your financial life. Whether you're a budgeting novice or a seasoned financial pro, this app provides a seamless and user-friendly experience to help you manage your money, achieve your financial goals, and build a secure future.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColumbiaCoding/fintrack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColumbiaCoding/fintrack/issues"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+  
+}
