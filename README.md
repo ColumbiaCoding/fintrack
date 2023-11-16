@@ -14,7 +14,7 @@ FinTrack is the ultimate personal finance tracker app designed to empower you wi
 ## Links
 <a href="https://github.com/ColumbiaCoding/FinanceTracker">Link to Github Repo</a>
 
-<a href="https://merry-bombolone-ef3243.netlify.app/">Link to Netfily Deployed Application</a>
+<a href="https://fintrack2023-ec91daba108b.herokuapp.com/">Link to Heroku Deployed Application</a>
 
 ## Purpose
 
